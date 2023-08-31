@@ -7,7 +7,7 @@ While there was some element of luck involved in surviving, it seems some groups
 
 I built a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc). This is a classification problem.
 
-I used the dataset available in Kaggle. I used python in Google Collab to analyze and visualize data and train my model. I used pandas, numpy, xgboost and scikit-learn library.
+I used the dataset available in Kaggle. I used python in Google Collab to analyze and visualize data and train my model. I used pandas, numpy, xgboost and scikit-learn libraries.
 
 I tried and tested
 1. Logistic Regression
